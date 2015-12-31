@@ -24,6 +24,15 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+Calculator functionality finished.
+
+Still working on UI enhancements and functionality improvments.
+
+I will be providing support for:
+- Different currencies
+- Division of the total bill among a variable amount of people
+- Other user-provided tip amount
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
@@ -51,3 +60,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
