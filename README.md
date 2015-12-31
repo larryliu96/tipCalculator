@@ -37,7 +37,7 @@ I will be providing support for:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/gallery/YOJ3vdN/new' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/YOJ3vdN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
